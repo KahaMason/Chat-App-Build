@@ -1,0 +1,8 @@
+# Server Dependencies
+/node_modules
+
+# MongoDB Database System
+/mongodb
+
+#  UserImages Upload File
+/userimages
